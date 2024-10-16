@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "670edc957e69984a03061608"
+  },
+  "usuario": "Santiago",
+  "lastName": "-",
+  "email": "santiagoolozadab@gmail.com",
+  "website": "-",
+  "country": "-",
+  "province": "-",
+  "city": "-",
+  "gender": "-",
+  "status": "-",
+  "description": "-",
+  "password": "1234",
+  "birthday": "15-10-2024",
+  "numberPhone": "888888888",
+  "fotoPerfil": "default.png",
+  "seguidores": 0,
+  "seguidos": 0,
+  "fechaInicio": "2024-10-15"
+},
+{
+  "_id": {
+    "$oid": "670eddde7e69984a0306160b"
+  },
+  "usuario": "Laia",
+  "lastName": "-",
+  "email": "laiaprueba@gmail.com",
+  "website": "-",
+  "country": "-",
+  "province": "-",
+  "city": "-",
+  "gender": "-",
+  "status": "-",
+  "description": "-",
+  "password": "1234",
+  "birthday": "15-10-2024",
+  "numberPhone": "888888888",
+  "fotoPerfil": "1729027550_laia.webp",
+  "seguidores": 0,
+  "seguidos": 0,
+  "fechaInicio": "2024-10-15"
+},
+{
+  "_id": {
+    "$oid": "670eddfb7e69984a0306160c"
+  },
+  "usuario": "Cooper",
+  "lastName": "-",
+  "email": "cooperprueba@gmail.com",
+  "website": "-",
+  "country": "-",
+  "province": "-",
+  "city": "-",
+  "gender": "-",
+  "status": "-",
+  "description": "-",
+  "password": "1234",
+  "birthday": "15-10-2024",
+  "numberPhone": "888888888",
+  "fotoPerfil": "1729027579_cooper.webp",
+  "seguidores": 0,
+  "seguidos": 0,
+  "fechaInicio": "2024-10-15"
+}]

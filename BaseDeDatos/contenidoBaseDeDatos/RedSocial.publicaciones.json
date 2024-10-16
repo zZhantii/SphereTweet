@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "670ede0a7e69984a0306160d"
+  },
+  "fotoContenido": "1729027594_ejemplo 1.jpg",
+  "usuario": "Laia",
+  "fotoPerfil": "1729027550_laia.webp",
+  "descripcion": "sdasd",
+  "likes": [],
+  "comments": 0,
+  "fecha": "15-10",
+  "shares": 0
+},
+{
+  "_id": {
+    "$oid": "670ede377e69984a03061610"
+  },
+  "fotoContenido": "1729027639_ejemplo4.png",
+  "usuario": "Cooper",
+  "fotoPerfil": "1729027579_cooper.webp",
+  "descripcion": "asdas",
+  "likes": [],
+  "comments": 0,
+  "fecha": "15-10",
+  "shares": 0
+},
+{
+  "_id": {
+    "$oid": "670ede687e69984a03061611"
+  },
+  "fotoContenido": "1729027688_mejores-bancos-de-imagenes-gratis.jpg",
+  "usuario": "Santiago",
+  "fotoPerfil": "default.png",
+  "descripcion": "dasdas",
+  "likes": [],
+  "comments": 0,
+  "fecha": "15-10",
+  "shares": 0
+}]
